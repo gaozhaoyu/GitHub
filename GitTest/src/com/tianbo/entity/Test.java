@@ -5,6 +5,7 @@ package com.tianbo.entity;
  */
 public class Test {
     public String test(){
+        Integer a;
         return  null;
     }
 }
